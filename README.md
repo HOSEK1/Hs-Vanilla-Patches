@@ -1,6 +1,9 @@
-# Hs-Vanilla-Patches
+# Hs-Vanilla-Patches 
+
 A bunch of client sided mods I use.
 [Modrinth link](https://modrinth.com/modpack/hs-vanilla-patches)
+
+![modpack](https://user-images.githubusercontent.com/100392072/174681908-34b7f3a1-ccbb-4f7a-ad82-916316e6dd79.png)
 
 ## Recommended resource packs to use along:
 
