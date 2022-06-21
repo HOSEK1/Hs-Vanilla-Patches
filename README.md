@@ -16,6 +16,11 @@ and
 [Read this!](https://docs.modrinth.com/docs/modpacks/playing_modpacks/)
 Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. There is simply no other easier way unless you want to download each mods manually. All mods used are linked below.
 
+## Mods that could be replaced in the future:
+**1.19**
+- Zoomify
+  - Janky zooming, probably will replace with "Ok Zoomer" once a 1.19 update rolls out.
+
 ## Main mods:
 
 |Mod name|Link|Status|Comment|
