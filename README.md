@@ -7,7 +7,7 @@ A bunch of client sided mods I use.
 
 ## Recommended resource packs to use along:
 
-[My own resource pack](https://github.com/HOSEK1/MCresourcepackpatch)
+[My own resource pack](https://github.com/HOSEK1/Hs-Texture-Patches)
 and
 [Developer art+](https://www.planetminecraft.com/texture-pack/developer-art-plus/)
 
