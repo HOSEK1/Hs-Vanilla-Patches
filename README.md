@@ -24,7 +24,6 @@ Use either ATLauncher, BakaXL, MultiMC, or PolyMC to download the modrinth modpa
 |Antighost|https://modrinth.com/mod/antighost|Working| |
 |Betterf3|https://modrinth.com/mod/betterf3|Working| |
 |Bettermount hud|https://modrinth.com/mod/better-mount-hud|Working| |
-|Better Recipe Book|https://modrinth.com/mod/brb|Working| |
 |Clear-despawn|https://modrinth.com/mod/cleardespawn|Working| |
 |Continuity|https://modrinth.com/mod/continuity|Working|Important for making the ores glow in my resource pack.|
 |Cullless leaves|https://modrinth.com/mod/cull-less-leaves|Working| |
@@ -33,7 +32,6 @@ Use either ATLauncher, BakaXL, MultiMC, or PolyMC to download the modrinth modpa
 |Deathlog|https://modrinth.com/mod/deathlog|Working| |
 |Detail armor bar|https://modrinth.com/mod/detail-armor-bar|Working| |
 |Draggable resource packs|https://modrinth.com/mod/draggable-resource-packs|Working| |
-|Enhanced block entities|https://modrinth.com/mod/ebe|Working| |
 |Enhanced attack indicator|https://modrinth.com/mod/enhanced-attack-indicator|Needs Update|Need update for 1.19|
 |Gamma utils|https://modrinth.com/mod/gamma-utils|Working| |
 |Hatlist|https://modrinth.com/mod/hatlist|Working| |
