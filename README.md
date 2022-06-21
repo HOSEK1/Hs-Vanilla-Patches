@@ -14,7 +14,7 @@ and
 ## How to download:
 
 [Read this!](https://docs.modrinth.com/docs/modpacks/playing_modpacks/)
-Use either ATLauncher, BakaXL, MultiMC, or PolyMC to download the modrinth modpack. There is simply no other easier way unless you want to download each mods manually. All mods used are linked below.
+Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. There is simply no other easier way unless you want to download each mods manually. All mods used are linked below.
 
 ## Main mods:
 
@@ -60,8 +60,10 @@ Use either ATLauncher, BakaXL, MultiMC, or PolyMC to download the modrinth modpa
 |Sodium|https://modrinth.com/mod/sodium|Working| |
 |Stendhal|https://modrinth.com/mod/stendhal|Working| |
 |Waveycapes|https://modrinth.com/mod/wavey-capes|Working| |
-|Journeymap|https://modrinth.com/mod/journeymap|Working| |
+|Xaero's Minimap|https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap|Working|https://chocolateminecraft.com/minimap2.php|
+|Xaero's Worldmap|https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map|Working|https://chocolateminecraft.com/worldmap.php|
 |Zoomify|https://modrinth.com/mod/zoomify|Working|Replaced "Ok Zoomer" since it took too long to update.|
+
 
 ## Libraries:
 |Name|Link|
