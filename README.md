@@ -1,4 +1,4 @@
-# Hs-Vanilla-Patches 
+# HOSEK1's Vanilla Patches for Minecraft
 
 A bunch of client sided mods I use.
 [Modrinth link](https://modrinth.com/modpack/hs-vanilla-patches)
