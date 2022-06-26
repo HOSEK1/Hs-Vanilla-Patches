@@ -108,6 +108,7 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |Xaero's Minimap|https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap|Working|https://chocolateminecraft.com/minimap2.php|
 |Xaero's Worldmap|https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map|Working|https://chocolateminecraft.com/worldmap.php|
 |Zoomify|https://modrinth.com/mod/zoomify|Working|Replaced "Ok Zoomer" since it took too long to update.|
+|3d skin layers|https://modrinth.com/mod/3dskinlayers|Working| |
 
 
 
