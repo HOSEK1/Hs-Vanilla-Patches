@@ -5,6 +5,11 @@ A bunch of client sided mods I use.
 
 ![modpack](https://user-images.githubusercontent.com/100392072/174681908-34b7f3a1-ccbb-4f7a-ad82-916316e6dd79.png)
 
+## Quick tips:
+
+- Game lagging in windowed mode?
+  - Turn off Vsync in the graphics settings. Vsync is broken outside of fullscreen mode.
+
 ## Recommended resource packs to use along:
 
 [My own resource pack](https://github.com/HOSEK1/Hs-Texture-Patches)
