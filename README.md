@@ -22,10 +22,8 @@ and
 Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. There is simply no other easier way unless you want to download each mods manually. All mods used are linked below.
 
 ## Keybinds:
+![keyboardmapping](https://user-images.githubusercontent.com/100392072/175823628-80ac4394-a6e5-4495-90de-2607f2339e78.png)
 
-![keyboardmapping](https://user-images.githubusercontent.com/100392072/175821647-9da8bc26-f793-4114-aeb8-746a8255d973.png)
-## Keybinds:
-![keyboardmapping](https://user-images.githubusercontent.com/100392072/175821647-9da8bc26-f793-4114-aeb8-746a8255d973.png)
 |Key|Action|
 |:----|:----|
 |Q|Highlight players (spectator)|
@@ -48,6 +46,7 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |Mouse key 5 (forward)|Crouch|
 |F12|Cinematic camera|
 |End|Show death logs|
+|-|Make a reminder|
 |+|Quick Waypoint|
 |Arrow up|Zoom in|
 |Arrow down|Zoom out|
