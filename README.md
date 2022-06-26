@@ -24,6 +24,35 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 ## Keybinds:
 
 ![keyboardmapping](https://user-images.githubusercontent.com/100392072/175821647-9da8bc26-f793-4114-aeb8-746a8255d973.png)
+|Key|Action|
+|:----|:----|
+|Q|Highlight players (spectator)|
+|R|Cycle hotbar|
+|Y|Toggle log strip|
+|I|Toggle minimap|
+|G|Cycle slot|
+|H|Resync blocks|
+|J|Toggle Night vision|
+|K|Toggle Fullbright|
+|Z|Enlarge map|
+|C|Zoom|
+|V|Drop item|
+|B|New waypoint|
+|M|Show World map|
+|,|Load hotbar activator|
+|.|Save hotbar activator|
+|LShift|Run|
+|Ctrl|Crouch|
+|Mouse|Crouch|
+|key 5|
+|(forward)|
+|F12|Cinematic camera|
+|End|Show death logs|
+|+|Quick Waypoint|
+|Arrow up|Zoom in|
+|Arrow down|Zoom out|
+|Arrow left|Toggle entity radar|
+|Arrow right|Toggle In-Game waypoints|
 
 
 ## Main mods:
