@@ -21,6 +21,11 @@ and
 [Read this!](https://docs.modrinth.com/docs/modpacks/playing_modpacks/)
 Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. There is simply no other easier way unless you want to download each mods manually. All mods used are linked below.
 
+## Keybinds:
+
+![keyboardmapping](https://user-images.githubusercontent.com/100392072/175821647-9da8bc26-f793-4114-aeb8-746a8255d973.png)
+
+
 ## Main mods:
 
 |Mod name|Link|Status|Comment|
