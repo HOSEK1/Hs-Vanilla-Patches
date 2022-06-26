@@ -21,11 +21,6 @@ and
 [Read this!](https://docs.modrinth.com/docs/modpacks/playing_modpacks/)
 Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. There is simply no other easier way unless you want to download each mods manually. All mods used are linked below.
 
-## Mods that could be replaced in the future:
-**1.19**
-- Zoomify
-  - Janky zooming, probably will replace with "Ok Zoomer" once a 1.19 update rolls out.
-
 ## Main mods:
 
 |Mod name|Link|Status|Comment|
@@ -38,9 +33,9 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |Continuity|https://modrinth.com/mod/continuity|Working|Important for making the ores glow in my resource pack.|
 |Cullless leaves|https://modrinth.com/mod/cull-less-leaves|Working| |
 |Dashloader|https://modrinth.com/mod/dashloader|Working| |
-|Don’t clear chat history|https://modrinth.com/mod/dcch|Working| |
 |Deathlog|https://modrinth.com/mod/deathlog|Working| |
 |Detail armor bar|https://modrinth.com/mod/detail-armor-bar|Working| |
+|Don’t clear chat history|https://modrinth.com/mod/dcch|Working| |
 |Draggable resource packs|https://modrinth.com/mod/draggable-resource-packs|Working| |
 |Enhanced attack indicator|https://modrinth.com/mod/enhanced-attack-indicator|Needs Update|Need update for 1.19|
 |Gamma utils|https://modrinth.com/mod/gamma-utils|Working| |
@@ -55,24 +50,29 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |Light overlay|https://modrinth.com/mod/light-overlay|Working| |
 |Lithium|https://modrinth.com/mod/lithium|Working| |
 |Make bubbles pop|https://modrinth.com/mod/make_bubbles_pop|Working| |
-|Modmenu|https://modrinth.com/mod/modmenu|Working| |
 |Mod manager|https://modrinth.com/mod/modmanager|Needs Update|Needs an update for 1.19|
+|Modmenu|https://modrinth.com/mod/modmenu|Working| |
 |More music|https://modrinth.com/mod/moremusic|Working| |
 |Narrator off|https://modrinth.com/mod/narrator-off|Working| |
+|No Chat Reports|https://modrinth.com/mod/no-chat-reports|Working| |
 |No more useless keys|https://modrinth.com/mod/nmuk|Working| |
+|No Strip|https://modrinth.com/mod/no-strip|Working| |
 |No telemetry|https://modrinth.com/mod/no-telemetry|Working| |
 |Not enough animations|https://modrinth.com/mod/not-enough-animations|Working| |
 |Not enough crashes|https://modrinth.com/mod/notenoughcrashes|Working| |
 |Notif mod|https://modrinth.com/mod/notifmod|Working|Really nice creator.|
 |Phosphor|https://modrinth.com/mod/phosphor|Working| |
 |Reeses sodium options|https://modrinth.com/mod/reeses-sodium-options|Working| |
+|Shadowed Action Bar|https://modrinth.com/mod/shadowedactionbar|Working| |
 |Simple fog control|https://modrinth.com/mod/simplefog|Working| |
 |Sodium|https://modrinth.com/mod/sodium|Working| |
 |Stendhal|https://modrinth.com/mod/stendhal|Working| |
+|Title Fix mod|https://modrinth.com/mod/title-fix-mod|Working| |
 |Waveycapes|https://modrinth.com/mod/wavey-capes|Working| |
 |Xaero's Minimap|https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap|Working|https://chocolateminecraft.com/minimap2.php|
 |Xaero's Worldmap|https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map|Working|https://chocolateminecraft.com/worldmap.php|
 |Zoomify|https://modrinth.com/mod/zoomify|Working|Replaced "Ok Zoomer" since it took too long to update.|
+
 
 
 ## Libraries:
