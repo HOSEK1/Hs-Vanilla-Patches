@@ -58,7 +58,7 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |No telemetry|https://modrinth.com/mod/no-telemetry|Working| |
 |Not enough animations|https://modrinth.com/mod/not-enough-animations|Working| |
 |Not enough crashes|https://modrinth.com/mod/notenoughcrashes|Working| |
-|Notif mod|https://www.curseforge.com/minecraft/mc-mods/notifmod|Working|Will probably get posted on modrinth.|
+|Notif mod|https://modrinth.com/mod/notifmod|Working|Really nice creator.|
 |Phosphor|https://modrinth.com/mod/phosphor|Working| |
 |Reeses sodium options|https://modrinth.com/mod/reeses-sodium-options|Working| |
 |Simple fog control|https://modrinth.com/mod/simplefog|Working| |
