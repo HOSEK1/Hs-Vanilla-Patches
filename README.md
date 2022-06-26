@@ -24,6 +24,8 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 ## Keybinds:
 
 ![keyboardmapping](https://user-images.githubusercontent.com/100392072/175821647-9da8bc26-f793-4114-aeb8-746a8255d973.png)
+## Keybinds:
+![keyboardmapping](https://user-images.githubusercontent.com/100392072/175821647-9da8bc26-f793-4114-aeb8-746a8255d973.png)
 |Key|Action|
 |:----|:----|
 |Q|Highlight players (spectator)|
@@ -43,9 +45,7 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |.|Save hotbar activator|
 |LShift|Run|
 |Ctrl|Crouch|
-|Mouse|Crouch|
-|key 5|
-|(forward)|
+|Mouse key 5 (forward)|Crouch|
 |F12|Cinematic camera|
 |End|Show death logs|
 |+|Quick Waypoint|
