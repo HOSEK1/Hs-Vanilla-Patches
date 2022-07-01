@@ -81,7 +81,7 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |Inventory HUD|https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge|Working| |
 |Inventory Profiles next|https://modrinth.com/mod/inventory-profiles-next|Working| |
 |Iris shaders|https://modrinth.com/mod/iris|Working| |
-|Item model fix|https://www.curseforge.com/minecraft/mc-mods/item-model-fix|Working|1.18 version works fine, could cause problems|
+|Item model fix|https://www.curseforge.com/minecraft/mc-mods/item-model-fix|Working| |
 |Lazydfu|https://modrinth.com/mod/lazydfu|Working| |
 |Light overlay|https://modrinth.com/mod/light-overlay|Working| |
 |Lithium|https://modrinth.com/mod/lithium|Working| |
