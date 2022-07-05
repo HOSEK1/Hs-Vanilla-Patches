@@ -66,6 +66,7 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |Betterf3|https://modrinth.com/mod/betterf3|Working| |
 |Bettermount hud|https://modrinth.com/mod/better-mount-hud|Working| |
 |Clear-despawn|https://modrinth.com/mod/cleardespawn|Working| |
+|Chat calc|https://modrinth.com/mod/chatcalc|Working| |
 |Continuity|https://modrinth.com/mod/continuity|Working|Important for making the ores glow in my resource pack.|
 |Cullless leaves|https://modrinth.com/mod/cull-less-leaves|Working| |
 |Dashloader|https://modrinth.com/mod/dashloader|Working| |
