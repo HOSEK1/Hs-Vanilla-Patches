@@ -71,7 +71,7 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |Dashloader|https://modrinth.com/mod/dashloader|Working| |
 |Deathlog|https://modrinth.com/mod/deathlog|Working| |
 |Detail armor bar|https://modrinth.com/mod/detail-armor-bar|Working| |
-|Don’t clear chat history|https://modrinth.com/mod/dcch|Working| |
+|Compact Chat|https://modrinth.com/mod/compactchat|Working| |
 |Draggable resource packs|https://modrinth.com/mod/draggable-resource-packs|Working| |
 |Enhanced attack indicator|https://modrinth.com/mod/enhanced-attack-indicator|Working| |
 |Gamma utils|https://modrinth.com/mod/gamma-utils|Working| |
