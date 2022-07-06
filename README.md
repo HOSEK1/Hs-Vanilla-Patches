@@ -22,7 +22,7 @@ and
 Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. There is simply no other easier way unless you want to download each mods manually. All mods used are linked below.
 
 ## Keybinds:
-![keyboardmapping](https://user-images.githubusercontent.com/100392072/175824985-652f1061-bc2a-43af-9e0c-446c9f879a00.png)
+![keyboardmapping](https://user-images.githubusercontent.com/100392072/177613361-ed8a4003-665c-498d-bb27-4c024beb5c47.png)
 
 
 
@@ -47,6 +47,8 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |Ctrl|Crouch|
 |Mouse key 5 (forward)|Crouch|
 |F12|Cinematic camera|
+|F4|Control player in freecam|
+|F6|Toggle freecam|
 |F7|Toggle light overlay|
 |End|Show death logs|
 |-|Make a reminder|
