@@ -96,13 +96,13 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |No more useless keys|https://modrinth.com/mod/nmuk|Working| |
 |No Strip|https://modrinth.com/mod/no-strip|Working| |
 |No telemetry|https://modrinth.com/mod/no-telemetry|Working| |
+|No Fog|https://modrinth.com/mod/no_fog|Working| |
 |Not enough animations|https://modrinth.com/mod/not-enough-animations|Working| |
 |Not enough crashes|https://modrinth.com/mod/notenoughcrashes|Working| |
 |Notif mod|https://modrinth.com/mod/notifmod|Working|Really nice creator.|
 |Phosphor|https://modrinth.com/mod/phosphor|Working| |
 |Reeses sodium options|https://modrinth.com/mod/reeses-sodium-options|Working| |
 |Shadowed Action Bar|https://modrinth.com/mod/shadowedactionbar|Working| |
-|Simple fog control|https://modrinth.com/mod/simplefog|Working| |
 |Sodium|https://modrinth.com/mod/sodium|Working| |
 |Stendhal|https://modrinth.com/mod/stendhal|Working| |
 |Title Fix mod|https://modrinth.com/mod/title-fix-mod|Working| |
