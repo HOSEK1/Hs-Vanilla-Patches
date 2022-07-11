@@ -92,7 +92,7 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |Modmenu|https://modrinth.com/mod/modmenu|Working| |
 |More music|https://modrinth.com/mod/moremusic|Working| |
 |Narrator off|https://modrinth.com/mod/narrator-off|Working| |
-|No Chat Reports|https://modrinth.com/mod/no-chat-reports|Working| |
+|No Chat Reports|https://modrinth.com/mod/no-chat-reports|Removed| MIGHT ADD BACK LATER |
 |No more useless keys|https://modrinth.com/mod/nmuk|Working| |
 |No Strip|https://modrinth.com/mod/no-strip|Working| |
 |No telemetry|https://modrinth.com/mod/no-telemetry|Working| |
