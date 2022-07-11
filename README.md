@@ -100,6 +100,7 @@ Use either ATLauncher, MultiMC, or PolyMC to download the modrinth modpack. Ther
 |Not enough animations|https://modrinth.com/mod/not-enough-animations|Working| |
 |Not enough crashes|https://modrinth.com/mod/notenoughcrashes|Working| |
 |Notif mod|https://modrinth.com/mod/notifmod|Working|Really nice creator.|
+|Force close loading screen|https://modrinth.com/mod/forcecloseworldloadingscreen|Working| |
 |Phosphor|https://modrinth.com/mod/phosphor|Working| |
 |Reeses sodium options|https://modrinth.com/mod/reeses-sodium-options|Working| |
 |Shadowed Action Bar|https://modrinth.com/mod/shadowedactionbar|Working| |
