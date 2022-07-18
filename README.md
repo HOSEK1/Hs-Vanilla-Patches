@@ -13,8 +13,6 @@ A bunch of client sided mods I use.
 ## Included resource packs:
 
 [H's texture patches](https://github.com/HOSEK1/Hs-Texture-Patches)
-and
-[Developer art+](https://www.planetminecraft.com/texture-pack/developer-art-plus/)
 
 ## How to download:
 
